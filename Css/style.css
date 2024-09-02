@@ -43,3 +43,30 @@ main{
     padding-top: 20px;
     color: black;
 }
+/* chapter styling */
+.chapter-1 span{
+    background-color: yellow;
+}
+
+.chapter-2 span{
+    background-color: yellow;
+}
+
+.chapter-1,.bullet-points,.chapter-2,table{
+    padding-top: 20px;
+}
+
+/* table styling  */
+thead>tr{
+    color: white;
+    background-color: lightskyblue;
+    text-align: left;
+}
+
+.third-column{
+    width: 66%;
+}
+
+.row-colorful{
+    background-color: lightblue;
+}
