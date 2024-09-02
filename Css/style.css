@@ -38,3 +38,8 @@ main{
 .main-section h5>span{
     color: lightskyblue;
 }
+
+.image-description-container{
+    padding-top: 20px;
+    color: black;
+}
