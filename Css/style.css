@@ -18,3 +18,9 @@ header{
     width: 200px;
     height: 100px;
 }
+
+/* main */
+main{
+    width: 80%;
+    margin: auto;
+}
