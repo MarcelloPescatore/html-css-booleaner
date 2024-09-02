@@ -41,6 +41,9 @@ main{
 
 .image-description-container{
     padding-top: 20px;
+}
+
+.image-description-container h6{
     color: black;
 }
 /* chapter styling */
