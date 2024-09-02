@@ -1,0 +1,20 @@
+/* reset sizing and margin */
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* header section */
+header{
+    background-image: url("../img/pattern.png") ;
+    background-size: contain;
+    background-color: rgb(14, 148, 192);
+}
+.logo-container{
+    width: 80%;
+    margin: auto;
+}
+.logo-header{
+    width: 200px;
+    height: 100px;
+}
