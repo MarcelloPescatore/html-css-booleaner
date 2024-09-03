@@ -7,7 +7,7 @@
 /* header section */
 header {
   background-image: url("../img/pattern.png");
-  background-size: contain;
+  background-size: 300px;
   background-color: rgb(14, 148, 192);
 }
 .logo-container {
